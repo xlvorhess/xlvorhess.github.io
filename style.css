@@ -201,6 +201,10 @@ body {
     text-decoration: none;
 }
 
+.another a:hover {
+    color: cyan;
+}
+
 .footer {
     background-color: #333333;
     padding: 10px;
